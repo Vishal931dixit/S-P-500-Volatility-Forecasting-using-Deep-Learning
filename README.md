@@ -213,7 +213,7 @@ The journey also highlighted the importance of careful data preparation, particu
 
 ---
 
-**Project by**: Ashwini  
+**Project by**: Vishal Dixit  
 **Data Source**: Yahoo Finance (yfinance)  
 **Period**: May 2005 - December 2019  
-**Last Updated**: 2024
+**Last Updated**: 2025
